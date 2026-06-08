@@ -57,7 +57,7 @@ NetGuard_IDS/
 
 ### Clone Repository
 
-git clone <repository_url>
+git clone <https://github.com/dspsarwanivoleti/codeAlpha_cybertask4.git>
 
 cd NetGuard_IDS
 
